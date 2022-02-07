@@ -2,8 +2,7 @@
 ![image](https://user-images.githubusercontent.com/98599230/152337415-fb94e355-902a-443c-ae38-4d3d0036f1c3.png)
 
 
-Language used: Python
-Libraries used: base64 and tkinter
-Tools and Technology: Microsoft Visual Studio Code
-Encryption and Decryption of message based on Vigenere Cipher Concept using python libraries
-This project is focused on how messages are encrypted and decrypted using a common secret key.
+Tech stack: Python & Microsoft Visual Studio Code,
+Libraries used: base64 and tkinter,
+Message encryption ensures that the sender and the intended recipient are the only parties that can read a message's content. Outsiders cannot decrypt the message, as they do not possess the secret key,
+This "Cryptic Messaging" tool can encrypt and decrypt messages based on Vigenere Cipher concept using a common secret key.
