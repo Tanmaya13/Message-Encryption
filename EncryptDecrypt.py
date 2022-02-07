@@ -2,7 +2,7 @@ from tkinter import *
 
 import random
 
-# Vigenère cipher for encryption and decryption
+# Vigenère cipher for encryption and decryption of messages
 import base64
 
 # creating root object
