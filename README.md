@@ -1,5 +1,5 @@
 # Message-Encryption-Decryption
-![image](https://user-images.githubusercontent.com/98599230/152337415-fb94e355-902a-443c-ae38-4d3d0036f1c3.png)
+![image](https://user-images.githubusercontent.com/98599230/154797485-62fa50e9-a0ad-485b-9ce6-4b4c8b5b21f6.png)
 
 
 Tech stack: Python & Microsoft Visual Studio Code,
